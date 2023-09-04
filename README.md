@@ -2,7 +2,7 @@
 
 **Healthcare Fraud Detection using ML Model**
 
-As we are well aware of the fraudulent practices in the health care fields like:
+**As we are well aware of the fraudulent practices in the health care fields like:**
 
 • Using insurance that belongs to someone else.
 
@@ -23,7 +23,9 @@ Labels (Fraud or Not Fraud) Outline:-
 Firstly, we merged all the datasets together and then we removed all the null values from the dataset and dropped the columns with missing values. After that, we explored the relations between the features and the target "Possible Fraud" variable.
 Next, we split the data into train and test and then used logistic regression to classify the trained model on the basic or potential fraud.
 We cross-checked the predicted values against the tested "Possible Fraud" variable and evaluated the accuracy of the model using plots.
-Conclusion:- Improving this model, will help in predicting Provider fraud, help Insurance companies and the Government to take decisions against fraudulent health providers, and also improve the health of the economy. Future Scope:-
+Conclusion:- Improving this model, will help in predicting Provider fraud, help Insurance companies and the Government to take decisions against fraudulent health providers, and also improve the health of the economy. 
+
+**Future Scope:-**
 
 The accuracy of the model can be increased by using more complex machine learning techniques like Support Vector Machine (SVM), Naive Bayes, etc.
 We can build a model which would predict values based on real-time data which would help provide a broader scope.
