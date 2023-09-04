@@ -1,4 +1,4 @@
-# HelathcareFraudRepo
+# HelathcareFraudDetectionRepo
 
 **Healthcare Fraud Detection using ML Model**
 
